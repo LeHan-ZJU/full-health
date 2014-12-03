@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<title>测量数据分析--血糖</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="A HTML Template best suited for business sites and portfolios" />
+<meta name="keywords" content="Some keywords that best describe your business" />
+<meta name="author" content="Creativusmouse" />
+
+<!-- CSS -->
+<link href="http://localhost/main/css/style.css" rel="stylesheet" type="text/css" />
+<!-- END CSS -->
+    
+<!-- JAVASCRIPT -->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://localhost/main/js/jquery-1.7.2.min.js"><\/script>')</script>
+<script type="text/javascript" src="http://localhost/main/js/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://localhost/main/js/jquery.prettyPhoto.js"></script>
+<script type="text/javascript" src="http://localhost/main/js/script.js"></script>
+<script type="text/javascript" src="http://localhost/main/js/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="http://localhost/main/js/jquery.quicksand.js"></script>
+<script type="text/javascript" src="http://localhost/main/js/superfish.js"></script>
+<script type="text/javascript" src="http://localhost/main/js/custom.js"></script>
+<script type="text/javascript" src="http://localhost/main/js/jquery.modernizr.min.js"></script>
+<!-- END JAVASCRIPT -->
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script src="scriptaculous/lib/prototype.js" type="text/javascript"></script>
+<script src="scriptaculous/src/effects.js" type="text/javascript"></script>
+<script type="text/javascript" src="list/validation.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+<!--
+// Alternative Style: Working With Alternate Style Sheets
+// http://www.alistapart.com/articles/alternate/
+function setActiveStyleSheet(title) {
+var i, a, main;
+for(i=0; (a = document.getElementsByTagName("link")[i]); i++) {
+if(a.getAttribute("rel").indexOf("style") != -1 && a.getAttribute("title")) {
+a.disabled = true;
+if(a.getAttribute("title") == title) a.disabled = false;
+}
+}
+}
+//-->
+//]]>
+</script>
+<link title="style1" rel="stylesheet" href="http://localhost/main/list/style1.css" type="text/css" />
+<link title="style2" rel="alternate stylesheet" href="http://localhost/main/list/style2.css" type="text/css" />
+<link title="style3" rel="alternate stylesheet" href="http://localhost/main/list/style3.css" type="text/css" />
+</head>
+  <body>
+  
+    <div class="header"><!-- HEADER -->
+      <div class="container_12">
+        <div class="grid_3">
+        
+          <div class="logo"><!-- LOGO -->
+            <a href="http://localhost/CodeIgniter/application/views/fullhealth/index.html"><img src="http://localhost/main/images/logo.png" alt="" /></a>
+          </div>
+        </div><!-- END LOGO -->
+        
+       <div class="grid_9"><!-- MENU -->
+          <ul class="sf-menu">
+            <li>
+              <a href="http://localhost/CodeIgniter/application/views/fullhealth/analyse-xueya.html"><span class="uppercase">检测中心</span></a>
+              <ul>
+                <li>
+                  <a href="http://localhost/CodeIgniter/application/views/fullhealth/analyse-xueya.html">血压</a>
+                </li>
+                <li>
+                  <a href="http://localhost/CodeIgniter/application/views/fullhealth/analyse-xuetang.html">血糖</a>
+
+                </li>
+                <li>
+                  <a href="http://localhost/CodeIgniter/application/views/fullhealth/analyse-xuezhi.html">血脂</a>
+                
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="http://localhost/CodeIgniter/application/views/fullhealth/question.html"><span class="uppercase">问答中心</span></a>
+              <ul>
+                <li>
+                  <a href="http://localhost/CodeIgniter/application/views/fullhealth/question.html">我的问答</a>
+                
+                </li>
+                <li>
+                  <a href="http://localhost/CodeIgniter/application/views/fullhealth/answer.html">医生建议</a>
+                
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="http://localhost/CodeIgniter/application/views/fullhealth/message.html"><span class="uppercase">信息快递</span></a>
+            </li>
+            <li>
+              <a href="#"><span class="uppercase">就医记录</span></a>
+            <li>
+              <a href="http://localhost/CodeIgniter/application/views/fullhealth/healthdata.html"><span class="uppercase">会员设置</span></a>
+                <ul>
+                <li>
+                  <a href="http://localhost/CodeIgniter/application/views/fullhealth/healthdata.html">健康数据更新</a>
+           
+                </li>
+                <li>
+                  <a href="http://localhost/CodeIgniter/application/views/fullhealth/namechange.html">个人资料更新</a>
+                
+                </li>
+                <li>
+                  <a href="#">退出软件</a>
+                
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </div><!-- END MENU -->
+        
+      </div>
+      
+    </div><!-- END HEADER -->
+    
+    <div class="head_title"><!-- HEAD TITLE -->
+      <div class="container_12">
+        <div class="grid_12">
+          <h1>
+           测量数据分析
+          </h1>
+        </div>
+      </div>
+    </div><!-- HEAD TITLE -->
+    
+    <div class="breadcrumbs"><!-- BREADCRUMBS -->
+      <div class="container_12">
+        <div class="grid_12">
+          <a href="http://localhost/CodeIgniter/application/views/fullhealth/main_index.html" style="font-size:20px; font-weight:bold; letter-spacing:2px;">首页</a>
+          <a href="http://localhost/CodeIgniter/application/views/fullhealth/analyse-xueya.html" class="icon_meta" style="font-size:20px; font-weight:bold; letter-spacing:2px;">血压</a>
+          <a href="http://localhost/CodeIgniter/application/views/fullhealth/analyse-xuetang.html" class="icon_meta" style="font-size:20px; font-weight:bold; letter-spacing:2px;">血糖</a>
+          <a href="http://localhost/CodeIgniter/application/views/fullhealth/analyse-xuezhi.html" class="icon_meta" style="font-size:20px; font-weight:bold; letter-spacing:2px;">血脂</a>
+          <a href="http://localhost/CodeIgniter/application/views/fullhealth/question.html" class="icon_meta" style="font-size:20px; font-weight:bold; letter-spacing:2px;">联系医生</a>
+          <a href="#" class="icon_meta" style="font-size:20px; font-weight:bold; letter-spacing:2px;">历史数据</a>
+        </div>
+      </div>
+    </div><!-- END BREADCRUMBS -->
+ <div class="form_content by">
+    <form id="test" action="http://localhost/CodeIgniter/index.php/postdata/insert_xuetang" method="post">
+    <fieldset>
+        <legend>血糖</legend>
+         <div class="form-row">
+            <div class="field-label"><label for="field1">空腹血糖</label>:</div>
+            <div class="field-widget"><input name="field1" id="field1" class="required" title="请输入您的空腹血糖" /></div>
+        </div>
+        
+        <div class="form-row">
+            <div class="field-label"><label for="field2">餐后血糖</label>:</div>
+            <div class="field-widget"><input name="field2" id="field2" class="required" title="请输入您的餐后血糖" /></div>
+        </div>
+     </fieldset>
+      <input id="botton" type="submit" class="submit" value="Submit" /> <input id="botton" class="reset" type="reset" value="Reset" onclick="valid.reset(); return false" />
+    </form>
+    <div id="photo">
+     <ul>
+      <div>
+       <ul id="photo-2">
+        <li>空腹</li>
+        <li><img src="http://localhost/main/img/icon_mc_d_down.png" /></li>
+       </ul></div>
+      <div>
+      <li class="photo-1"><img src="http://localhost/main/img/shaft_mc_d_01.png" class="im" /></li>
+      <li class="photo-1"><img src="http://localhost/main/img/shaft_mc_d_02.png" class="im"/></li>
+      <li class="photo-1"><img src="http://localhost/main/img/shaft_mc_d_03.png" class="im"/></li></div>
+      <div>
+      <ul id="photo-3">
+        <li><img src="http://localhost/main/img/icon_mc_d_up.png" /></li>
+        <li>餐后</li>
+      </ul></div>
+     </ul>   
+</div>
+    <div class="word">
+     <h3 style="color:#F00; font-size:30px; font-weight:bold; margin:10px;">温馨提示：</h3><br />
+     <p id="word" align="left">
+     黄色区域：已处于亚临床状态，请每日检测血糖值并录入！<br />
+     绿色区域：血糖正常，请继续保持！<br />
+     红色区域：已处于危险区间，请及时就医！</p>
+    </div>
+
+
+    <script type="text/javascript">
+        function formCallback(result, form) {
+            window.status = "valiation callback for form '" + form.id + "': result = " + result;
+        }
+        
+        var valid = new Validation('test', {immediate : true, onFormValidate : formCallback});
+        Validation.addAllThese([
+            ['validate-password', '> 6 characters', {
+                minLength : 7,
+                notOneOf : ['password','PASSWORD','1234567','0123456'],
+                notEqualToField : 'field1'
+            }],
+            ['validate-password-confirm', 'please try again.', {
+                equalToField : 'field8'
+            }]
+        ]);
+    </script>
+  
+</body>
+</html>
