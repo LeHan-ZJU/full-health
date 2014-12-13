@@ -1,0 +1,65 @@
+[08-Dec-2014 01:15:10 America/Chicago] PHP Parse error:  syntax error, unexpected 'default' (T_DEFAULT) in /home/zhenhui/public_html/Taro/application/config/database.php on line 53
+[10-Dec-2014 05:31:20 America/Chicago] PHP Fatal error:  Cannot redeclare Analyse::healthdata() in /home/zhenhui/public_html/Taro/application/controllers/analyse.php on line 51
+[10-Dec-2014 05:33:01 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:34:28 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:34:30 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:36:28 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:38:45 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:39:22 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:39:49 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:42:54 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 05:43:01 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 07:23:28 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 07:25:23 America/Chicago] PHP Fatal error:  Call to a member function userdata() on a non-object in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 8
+[10-Dec-2014 07:29:57 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 07:39:36 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 07:39:51 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 07:40:36 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 07:40:53 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 08:06:19 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 08:18:14 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 08:39:56 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 09:26:42 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 09:27:53 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 09:29:39 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 09:30:43 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:10:15 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:15:33 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:15:42 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:15:44 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:16:31 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:17:15 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:29 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:33 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:35 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:37 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:38 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:39 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:40 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:41 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:42 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:44 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:24:45 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:25:03 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:25:05 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:41:02 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:41:05 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:41:06 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:41:08 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:50:42 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:51:56 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:01 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:03 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:04 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:05 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:12 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:13 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:22 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 10:52:38 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 11:09:25 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 11:09:26 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 11:09:28 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 11:09:28 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[10-Dec-2014 19:13:55 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[12-Dec-2014 23:33:23 America/Chicago] PHP Fatal error:  Class 'Graph' not found in /home/zhenhui/public_html/Taro/application/views/zhexian.php on line 5
+[13-Dec-2014 02:25:21 America/Chicago] PHP Fatal error:  Call to undefined function stroke() in /home/zhenhui/public_html/Taro/application/controllers/hisdata.php on line 47
